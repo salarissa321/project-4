@@ -1,0 +1,57 @@
+
+body{
+    font-family: "Nunito", sans-serif;
+padding: 0;
+margin: 0;
+background-color: #13C4A1;
+}
+
+
+
+.mynav {
+color: white;
+background-color:#13C4A1;
+padding-left: 150px;
+}
+
+
+
+
+.mycolor{
+    color: white;
+    padding: 20px;
+    margin: 10px;
+}
+
+.mycrake{
+    color: white;
+    padding-right: 300px;
+}
+
+.mycard{
+    padding: 20px;
+    margin-bottom: 40px;
+    
+    
+}
+
+.mypay{
+  
+    font-size: 23px;
+font-weight: 700;
+margin-top: 25px;
+margin-bottom: 15px;
+color: black;
+    
+}
+
+.mybanner{
+
+}
+
+
+
+.banner{
+    color: white;
+    margin: 10px;
+}
