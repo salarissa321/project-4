@@ -3,10 +3,13 @@ body{
     font-family: "Nunito", sans-serif;
 padding: 0;
 margin: 0;
-background-color: #13C4A1;
+
 }
 
+.mycontainer{
+    background-color:#13C4A1;
 
+}
 
 .mynav {
 color: white;
@@ -17,7 +20,7 @@ padding-left: 150px;
 
 
 
-.mycolor{
+.mylink{
     color: white;
     padding: 20px;
     margin: 10px;
@@ -26,6 +29,11 @@ padding-left: 150px;
 .mycrake{
     color: white;
     padding-right: 300px;
+    font-size: 40px;
+}
+
+.myicon{
+    color: #13C4A1;
 }
 
 .mycard{
@@ -41,12 +49,14 @@ padding-left: 150px;
 font-weight: 700;
 margin-top: 25px;
 margin-bottom: 15px;
-color: black;
+color: var(--bs-heading-color);
     
 }
 
-.mybanner{
-
+.card-text{
+    font-size: 16px;
+color: #818992;
+line-height: 1.6;
 }
 
 
